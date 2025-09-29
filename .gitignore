@@ -1,0 +1,6 @@
+.git/
+data/*.json
+test.json
+platform/.terraform/
+platform/.terraform*
+platform/aws-glue-tf
